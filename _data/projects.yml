@@ -1,9 +1,26 @@
 # Project template
+# - layout: top-middle
+#   name: Project name
+#   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+#   quote: >
+#     Short overview of the project (optional)
+#   description: | # this will include new lines to allow paragraphs
+#     Description about the work on/with the project
+
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Maritime Surveillance Software
+  github: chletes/IMTA-PE-S3
   quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Development of a maritime surveillance software thanks to the use of <mark>AIS messages</mark>, with the collaboration of CEREMA.
+
+
+- layout: top-middle
+  name: Video Compression Project
+  github: chletes/IMTA-CD-Video_Compression_Project
+#  quote: >
+
+- layout: top-middle
+  name: Digital Communications simulations
+  github: chletes/IMTA-CN-TPs
+#  quote: >   

@@ -1,9 +1,45 @@
 # Education Template
+# - layout: left
+#   name: Institution name
+#   dates: Date Range (eg. 2016 - 2019)
+#   qualification: Qualifications (eg. BA Performing Arts)
+#   quote: >
+#     Short institution or course description (optional)
+#   description: | # this will include new lines to allow paragraphs
+#     Description of qualification
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+  name: Lycée Français de Castilla y Léon
+  dates: 2001 - 2016
+  #qualification: Qualifications (eg. BA Performing Arts)
+  #quote: >
+    
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    French Baccalauréat - International Baccalaureate Diploma
+    
+    Baccalauréat Scientifique, Spécialité Mathématiques
+
+- layout: left
+  name: Higher Technical School of Telecommunications Engineering (Universidad de Valladolid)
+  dates: 2016 - 2020
+  #qualification: Qualifications (eg. BA Performing Arts)
+  quote: >
+    Bachelor's Degree in <mark>Telecommunications Engineering</mark>
+  description: | # this will include new lines to allow paragraphs
+    These studies prepared me to have wide knowledge in telecommunication systems, electronics and telematics. 
+    
+    Completion of a double diploma with the French «grande école» IMT Atlantique together with this degree and the Master in Telecommunications Engineering of ETSIT.
+    
+    _Activities_: Participation in the MENTUm program.
+
+- layout: left
+  name: « Grande École » IMT Atlantique
+  dates: 2019 - 2021
+  #qualification: Qualifications (eg. BA Performing Arts)
+  quote: >
+    Diplôme d'ingénieur, specialization in <mark>Communications systems</mark> and <mark>Data Science</mark>
+  description: | # this will include new lines to allow paragraphs
+    Completion of a double diploma together with this « grande-école » and the Higher Technical School of Telecommunications Engineering (ETSIT). 
+    
+    _Specialty in the ETSIT_: Bachelor's Degree in Telecommunications Technologies Engineering and Master in Telecommunications Engineering, the official title that grants the professional attributions of a Telecommunications Engineer. 
+    
+    _Specialty in the IMT_: « Diplôme d'Ingénieur » (Master of Science equivalent)
