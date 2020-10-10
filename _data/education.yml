@@ -8,15 +8,15 @@
 #   description: | # this will include new lines to allow paragraphs
 #     Description of qualification
 - layout: left
-  name: Lycée Français de Castilla y Léon
-  dates: 2001 - 2016
+  name: Higher Technical School of Telecommunications Engineering (Universidad de Valladolid)
+  dates: 2020 - 2021
   #qualification: Qualifications (eg. BA Performing Arts)
-  #quote: >
-    
+  quote: >
+    Master in <mark>Telecommunications Engineering</mark>
   description: | # this will include new lines to allow paragraphs
-    French Baccalauréat - International Baccalaureate Diploma
-    
-    Baccalauréat Scientifique, Spécialité Mathématiques
+    These studies enabled me to gain aptitudes and knowledge related to the profesional field of the Telecommunications Engineer.
+
+    Completion of a double diploma with the French «grande école» IMT Atlantique together with this master and theBachelor's Degree in Telecommunications Engineering.
 
 - layout: left
   name: Higher Technical School of Telecommunications Engineering (Universidad de Valladolid)
@@ -27,7 +27,7 @@
   description: | # this will include new lines to allow paragraphs
     These studies prepared me to have wide knowledge in telecommunication systems, electronics and telematics. 
     
-    Completion of a double diploma with the French «grande école» IMT Atlantique together with this degree and the Master in Telecommunications Engineering of ETSIT.
+    Completion of a double diploma with the French «grande école» IMT Atlantique together with this degree and the Master in Telecommunications Engineering.
     
     _Activities_: Participation in the MENTUm program.
 
@@ -43,3 +43,12 @@
     _Specialty in the ETSIT_: Bachelor's Degree in Telecommunications Technologies Engineering and Master in Telecommunications Engineering, the official title that grants the professional attributions of a Telecommunications Engineer. 
     
     _Specialty in the IMT_: « Diplôme d'Ingénieur » (Master of Science equivalent)
+
+- layout: left
+  name: Lycée Français de Castilla y Léon
+  dates: 2001 - 2016
+  #qualification: Qualifications (eg. BA Performing Arts)
+  quote: >
+    French Baccalauréat - International Baccalaureate Diploma
+  description: | # this will include new lines to allow paragraphs
+    Baccalauréat Scientifique, Spécialité Mathématiques
