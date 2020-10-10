@@ -45,9 +45,12 @@ additional_links:
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
+about_profile_phrase : Mens sana in corpore sano
 about_content: | # this will include new lines to allow paragraphs
   I'm a Double Degree student at the [E.T.S.I. de Telecomunicaciones](https://tel.uva.es) (Universidad de Valladolid, Spain) and [IMT Atlantique](https://www.imt-atlantique.fr/) (ex. Télécom-Bretagne, France).
-  I'm specializing myself in <mark>Telecomunications Engineering</mark> at the E.T.S.I.T. but I'm very interested in <mark>Data Science</mark>.
+  I'm specializing myself in <mark>Telecomunications Engineering</mark>, I'm interested in <mark>Data Science</mark> and I would love to work in <mark>Advanced Driver-Assistance Systems</mark> (ADAS).
+
+  I like to do CrossFit but I can't even with 80 kilos on Clean & Jerk. 🏋️‍♂️
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -60,9 +63,9 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 # More Section
-more_title: Interests #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  _Mens sana in corpore sano_
+#more_title: Interests #(Use this to override about more section title)
+#more_content: | # this will include new lines to allow paragraphs
+  
 #  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 #  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
