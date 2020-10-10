@@ -9,21 +9,24 @@
 #     Description of qualification
 - layout: left
   name: Higher Technical School of Telecommunications Engineering of Valladolid
-  #dates: 2020 - 2021
+  dates: 2016 - 2021
+  date: 2020 - 2021
   #qualification: Qualifications (eg. BA Performing Arts)
   quote: >
-    Master in <mark>Telecommunications Engineering</mark> | 2020 - 2021
+    Master in <mark>Telecommunications Engineering</mark>
   description: | # this will include new lines to allow paragraphs
     These studies enabled me to gain aptitudes and knowledge related to the profesional field of the Telecommunications Engineer.
     
     Completion of a double diploma with the French engineering school IMT Atlantique. 
 - layout: left
-  quote: >
-    Bachelor's Degree in <mark>Telecommunications Engineering</mark> | 2016 - 2020
+  date : 2016 - 2020
+  quote: |
+    Bachelor's Degree in <mark>Telecommunications Engineering</mark>
   description: | # this will include new lines to allow paragraphs
     These studies prepared me to have wide knowledge in telecommunication systems, electronics and telematics. 
     
-    _Activities_: Participation in the MENTUm program.
+    * _Activities_: Participation in the MENTUm program.
+    
     - - -
 
 - layout: left

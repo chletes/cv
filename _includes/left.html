@@ -22,7 +22,13 @@
   </div>
   <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
     {%- if include.item.quote -%}
-      <p class="quote">{{ include.item.quote }}</p>
+      <p class="quote" style="font-style: normal;">
+        <i>{{ include.item.quote }} </i>
+        {%- if include.item.date -%} 
+         || {{ include.item.date }} 
+        {%- endif -%}
+      </p>
+      
     {%- endif -%}
     {{ include.item.description | strip | markdownify }}
   </div>
