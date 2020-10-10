@@ -8,41 +8,38 @@
 #   description: | # this will include new lines to allow paragraphs
 #     Description of qualification
 - layout: left
-  name: Higher Technical School of Telecommunications Engineering (Universidad de Valladolid)
-  dates: 2020 - 2021
+  name: Higher Technical School of Telecommunications Engineering of Valladolid
+  #dates: 2020 - 2021
   #qualification: Qualifications (eg. BA Performing Arts)
   quote: >
-    Master in <mark>Telecommunications Engineering</mark>
+    Master in <mark>Telecommunications Engineering</mark> | 2020 - 2021
   description: | # this will include new lines to allow paragraphs
     These studies enabled me to gain aptitudes and knowledge related to the profesional field of the Telecommunications Engineer.
-
-    Completion of a double diploma with the French «grande école» IMT Atlantique together with this master and theBachelor's Degree in Telecommunications Engineering.
-
+    
+    Completion of a double diploma with the French engineering school IMT Atlantique. 
 - layout: left
-  name: Higher Technical School of Telecommunications Engineering (Universidad de Valladolid)
-  dates: 2016 - 2020
-  #qualification: Qualifications (eg. BA Performing Arts)
   quote: >
-    Bachelor's Degree in <mark>Telecommunications Engineering</mark>
+    Bachelor's Degree in <mark>Telecommunications Engineering</mark> | 2016 - 2020
   description: | # this will include new lines to allow paragraphs
     These studies prepared me to have wide knowledge in telecommunication systems, electronics and telematics. 
     
-    Completion of a double diploma with the French «grande école» IMT Atlantique together with this degree and the Master in Telecommunications Engineering.
-    
     _Activities_: Participation in the MENTUm program.
+    - - -
 
 - layout: left
-  name: « Grande École » IMT Atlantique
+  name: « Grande École d’Ingénieurs » IMT Atlantique
   dates: 2019 - 2021
   #qualification: Qualifications (eg. BA Performing Arts)
   quote: >
-    Diplôme d'ingénieur, specialization in <mark>Communications systems</mark> and <mark>Data Science</mark>
+    « Diplôme d'Ingénieur », specialization in <mark>Communications systems</mark> and <mark>Data Science</mark>
   description: | # this will include new lines to allow paragraphs
-    Completion of a double diploma together with this « grande-école » and the Higher Technical School of Telecommunications Engineering (ETSIT). 
+    Completion of a double diploma together with this French engineering school and the Higher Technical School of Telecommunications Engineering (ETSIT). 
     
-    _Specialty in the ETSIT_: Bachelor's Degree in Telecommunications Technologies Engineering and Master in Telecommunications Engineering, the official title that grants the professional attributions of a Telecommunications Engineer. 
+    * _Specialty in the ETSIT_: Bachelor's Degree in Telecommunications Technologies Engineering and Master in Telecommunications Engineering, the official title that grants the professional attributions of a Telecommunications Engineer. 
     
-    _Specialty in the IMT_: « Diplôme d'Ingénieur » (Master of Science equivalent)
+    * _Specialty in the IMT_: « Diplôme d'Ingénieur » (equivalent to [Master of Science in Engineering](https://www.imt-atlantique.fr/en/study/engineering))
+    
+    - - -
 
 - layout: left
   name: Lycée Français de Castilla y Léon
