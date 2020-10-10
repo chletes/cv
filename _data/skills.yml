@@ -1,0 +1,26 @@
+# Courses Template
+- layout: left
+  name: Languages
+  #dates: 2020
+  # qualification: Qualifications (eg. BA Performing Arts)
+  #quote: >
+    # Professional Certificate in <mark>Data Science</mark>
+  # link: www.edx.org/professional-certificate/harvardx-data-science
+  description: | # this will include new lines to allow paragraphs
+    * Spanish : native language.
+    * French : bilingual.
+    * English : good level, holder of the Cambridge First Certificate.
+
+- layout: left
+  name: Technical knowledge
+  #dates: 2020
+  # qualification: Qualifications (eg. BA Performing Arts)
+  #quote: >
+    # Professional Certificate in <mark>Data Science</mark>
+  # link: www.edx.org/professional-certificate/harvardx-data-science
+  description: | # this will include new lines to allow paragraphs
+    * Programming languages : Python, R, Matlab, C, Java, Arduino, HTML, Javascript and CSS
+    * Typesetting : LaTeX, Microsoft Office, Google Documents and Markdown.
+    * Non-relational databases (MongoDB) and relational databases (SQLlite). 
+    * Assembler : MIPS - ARM.
+    * Hardware Description Language (HDL) : Verilog y VHDL

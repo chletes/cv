@@ -1,0 +1,13 @@
+# Courses Template
+- layout: left
+  name: Hardward University (HarvardX - edX)
+  dates: 2020
+  # qualification: Qualifications (eg. BA Performing Arts)
+  quote: >
+    Professional Certificate in <mark>Data Science</mark>
+  link: www.edx.org/professional-certificate/harvardx-data-science
+  description: | # this will include new lines to allow paragraphs
+    This <mark>Data Science</mark> program prepared me with the necessary knowledge base and useful skills to tackle real-world data analysis challenges. 
+    It covered concepts such as _probability_, _inference_, _regression_, and _machine learning_ through real-world and challenging case studies. 
+    
+    It helped me develop an essential skill set that includes <mark>R programming</mark>, data wrangling with <mark>dplyr</mark>, data visualization with <mark>ggplot2</mark>, file organization with <mark>Unix/Linux</mark>, version control with <mark>git</mark> and <mark>GitHub</mark>, and reproducible document preparation with <mark>RStudio</mark>.
