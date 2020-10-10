@@ -13,14 +13,18 @@
   github: chletes/IMTA-PE-S3
   quote: >
     Development of a maritime surveillance software thanks to the use of <mark>AIS messages</mark>, with the collaboration of CEREMA.
+  description: | 
+    - - - 
 
 
 - layout: top-middle
   name: Video Compression Project
   github: chletes/IMTA-CD-Video_Compression_Project
-#  quote: >
+  description: | 
+    - - -
 
 - layout: top-middle
   name: Digital Communications simulations
   github: chletes/IMTA-CN-TPs
-#  quote: >   
+  description: | 
+    - - -
