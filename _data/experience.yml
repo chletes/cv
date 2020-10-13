@@ -13,19 +13,19 @@
   link: www.silver-storm.com
   job_title: Deployment Consultant
   dates: jul 2018 - aug 2018
-  quote: >
-   Valladolid, Spain
+  place: Valladolid, Spain
   description: | # this will include new lines to allow paragraphs
     End-of-studies Internship (corresponding to the Bachelor's Degree in Telecommunications Engineering), during while I worked with <mark>Service-Now</mark>, a rich cloud computing platform.
+    
+    Work in Web Development (HTML, Javascript, CSS, REST interfaces/apis, database management, ...)
 
     - - -
 - layout: left
-  company: Bookbeo
+  company: bookBeo
   link: www.bookbeo.com
   job_title: IT development 
   dates: jun 2020 - aug 2020
-  quote: >
-   Rennes, Bretagne, France
+  place: Rennes, France
   description: | # this will include new lines to allow paragraphs
     3 months internship at bookBeo as part of my engineering training at IMT Atlantique. 
     
